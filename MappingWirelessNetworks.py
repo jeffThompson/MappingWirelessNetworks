@@ -55,7 +55,7 @@ spaceBetweenReadings = True		# separate readings with a space in text file?
 getGPS = False					# connect to GPS Arduino shield
 gpsConnected = False			# did we successfully connect to a GPS device?
 
-outputFilename = location + "Networks_" + time.strftime("%Y-%m-%d_%H-%M-%S") + ".txt"
+outputFilename = "OutputData/" + location + "Networks_" + time.strftime("%Y-%m-%d_%H-%M-%S_raw") + ".txt"
 
 # get current date and time from system
 def getTime():
@@ -117,7 +117,7 @@ def main():
 			
 			# write the results to a text file!
 			for network in networks:
-				with open('networks.txt', 'a') as f:									# 'with' makes a 'close' statement unnecessary
+				with open(outputFilename, 'a') as f:									# 'with' makes a 'close' statement unnecessary
 					if getGPS:
 						network += delimiter + coordinates + delimiter + currentTime	# combine into a single line, separated by delimiter
 					else:
