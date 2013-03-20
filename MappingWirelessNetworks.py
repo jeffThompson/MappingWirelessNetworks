@@ -49,7 +49,7 @@ import serial					# for talking to the Arduino (GPS)
 import shlex					# for splitting text at spaces
 import time						# get current date/time!
 
-location = "LincolnAndOmaha"	# location (for filename
+location = "LincolnAndOmaha_viaI80"	# location (for filename
 delimiter = ','					# what format to save the file (default is CSV)
 spaceBetweenReadings = True		# separate readings with a space in text file?
 getGPS = False					# connect to GPS Arduino shield

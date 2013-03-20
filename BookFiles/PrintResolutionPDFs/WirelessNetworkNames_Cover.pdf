@@ -5,23 +5,23 @@
    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
       <rdf:Description rdf:about=""
             xmlns:xmp="http://ns.adobe.com/xap/1.0/">
-         <xmp:CreateDate>2013-03-18T16:51:16-05:00</xmp:CreateDate>
-         <xmp:MetadataDate>2013-03-18T16:51:17-05:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2013-03-18T16:51:17-05:00</xmp:ModifyDate>
+         <xmp:CreateDate>2013-03-19T16:12:39-05:00</xmp:CreateDate>
+         <xmp:MetadataDate>2013-03-19T16:12:40-05:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2013-03-19T16:12:40-05:00</xmp:ModifyDate>
          <xmp:CreatorTool>Adobe InDesign CS6 (Macintosh)</xmp:CreatorTool>
       </rdf:Description>
       <rdf:Description rdf:about=""
             xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
             xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
             xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">
-         <xmpMM:InstanceID>uuid:03ad5cef-7eb1-5942-bf14-d4e487e01cc9</xmpMM:InstanceID>
+         <xmpMM:InstanceID>uuid:66b31490-5b10-9f48-88e5-2445a5525dd9</xmpMM:InstanceID>
          <xmpMM:OriginalDocumentID>xmp.did:F77F11740720681191B7C6495D65DE4D</xmpMM:OriginalDocumentID>
-         <xmpMM:DocumentID>xmp.id:A15D13082F206811822A8D86817E78D9</xmpMM:DocumentID>
+         <xmpMM:DocumentID>xmp.id:0A8462DC0A206811822A90D16C7688ED</xmpMM:DocumentID>
          <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
          <xmpMM:VersionID>1</xmpMM:VersionID>
          <xmpMM:DerivedFrom rdf:parseType="Resource">
-            <stRef:instanceID>xmp.iid:A05D13082F206811822A8D86817E78D9</stRef:instanceID>
-            <stRef:documentID>xmp.did:0480117407206811822A8D86817E78D9</stRef:documentID>
+            <stRef:instanceID>xmp.iid:088462DC0A206811822A90D16C7688ED</stRef:instanceID>
+            <stRef:documentID>xmp.did:922720FD09206811822A90D16C7688ED</stRef:documentID>
             <stRef:originalDocumentID>xmp.did:F77F11740720681191B7C6495D65DE4D</stRef:originalDocumentID>
             <stRef:renditionClass>default</stRef:renditionClass>
          </xmpMM:DerivedFrom>
@@ -32,7 +32,7 @@
                   <stEvt:parameters>from application/x-indesign to application/pdf</stEvt:parameters>
                   <stEvt:softwareAgent>Adobe InDesign CS6 (Macintosh)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
-                  <stEvt:when>2013-03-18T16:51:16-05:00</stEvt:when>
+                  <stEvt:when>2013-03-19T16:12:39-05:00</stEvt:when>
                </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
@@ -45,7 +45,7 @@
                <rdf:li>2.2.0.20d10</rdf:li>
                <rdf:li>cover</rdf:li>
                <rdf:li>pocket</rdf:li>
-               <rdf:li>32</rdf:li>
+               <rdf:li>98</rdf:li>
                <rdf:li>dustjacket</rdf:li>
                <rdf:li>bw_text_paper</rdf:li>
                <rdf:li>enUS</rdf:li>
@@ -73,7 +73,7 @@
       </rdf:Description>
    </rdf:RDF>
 </x:xmpmeta>
-<?xpacket end="r"?>endstreamendobj3 0 obj<</Count 1/Kids[6 0 R]/Type/Pages>>endobj6 0 obj<</BleedBox[12.0 12.0 1408.0 624.0]/Contents 7 0 R/CropBox[0.0 0.0 1420.0 636.0]/MediaBox[0.0 0.0 1420.0 636.0]/Parent 3 0 R/Resources<</ColorSpace<</CS0 8 0 R>>/ExtGState<</GS0 9 0 R/GS1 10 0 R>>/Font<</TT0 11 0 R>>/ProcSet[/PDF/Text]>>/TrimBox[21.0 21.0 1399.0 615.0]/Type/Page>>endobj7 0 obj<</Length 1760634>>stream
+<?xpacket end="r"?>endstreamendobj3 0 obj<</Count 1/Kids[6 0 R]/Type/Pages>>endobj6 0 obj<</BleedBox[12.0 12.0 1408.0 624.0]/Contents 7 0 R/CropBox[0.0 0.0 1420.0 636.0]/MediaBox[0.0 0.0 1420.0 636.0]/Parent 3 0 R/Resources<</ColorSpace<</CS0 8 0 R>>/ExtGState<</GS0 9 0 R/GS1 10 0 R>>/Font<</TT0 11 0 R>>/ProcSet[/PDF/Text]>>/TrimBox[21.0 21.0 1399.0 615.0]/Type/Page>>endobj7 0 obj<</Length 1760609>>stream
 0 0 0 1 k
 /GS0 gs
 12 14 1396 609.999 re
@@ -82,7 +82,6 @@ q
 12 14 1396 609.999 re
 W n
 0 0 0 0.529 k
-/GS1 gs
 q 1 0 0 1 12.639 623.9998 cm
 0 0 m
 -0.639 0 l
@@ -71381,17 +71380,16 @@ q 1 0 0 1 1407.6899 26.0401 cm
 f
 Q
 Q
-690.5 12.5 35 330 re
-f
-690.5 342.5 35 281.499 re
+/GS1 gs
+690.5 12 34.501 612 re
 f
 BT
 0 0 0 0.39 k
-/GS1 gs
+/GS0 gs
 /TT0 1 Tf
-0 -13 13 0 703.2145 543.6846 Tm
+0 -13 13 0 704.2145 543.6846 Tm
 (WIRELESS NETWORK NAMES)Tj
-23.963 0.038 Td
+23.963 -0.038 Td
 [(Jef)18(f Thompson)]TJ
 ET
 q
@@ -71658,7 +71656,7 @@ P{ªƒ:*HÁ
 $Aùàjğ'ì…éœiÈãÓxCš©ya¦ÂÂLÍ¹!Ókö¿cÿ×äGşá­H6­]A¾'­Ô—ß“OVí~RUL#ÎgAùD4¿DÄó»(ÎoTPğM	bœkKiÇÅÌÏ–E¿qqİ,¥u3o-¡şY˜Vœ—•¿„­ò]@å/é÷Œ)7p-în`ÕìawßĞù²ÏXõ†kÈ•­Üç=Õğo¶üÁ–“Ïäó–-_‰Öî¤§ÕóÊÅz£Xw<_oL·|üDY°“}z¯¼¦ÿƒ\Ù;38ÜvQ!YˆªÉ ,Dåe¡ø Yd‘?Ø?ëj†8°aâm‰ƒ^DC=pĞ‹¨¼	úÌmÓÎ‰‹é¸àè/_ˆP§¨°ŠEpŠ
 «X§Xë@UœŸu•	1—ØŒX@s9+&³b’AQ1+f³È:8õ’XLU¾…}÷* rK¯lóğ*àT!Øêïœ¢F®³8&å:Å§ëÕvOÏôU²’ëuõiwHûÛìŞCgı“>8¬OIİ:G4ë†|_Ù9AL¼İë¹Å•„f:Åö}€+¿¾”cIP¾<Ìá“-0áÅ¾° €)€0 ‘€“¥8;âô¿±ÜÆÉgC?{v5âœ4ËI,ı/ıÎl†L¦æÄ˜ş3_şiYÿ\O.¦e¬T‹¤ÀU`¯ÖÎ¥ãpÅ¼zÎ‡çŠ•ø´-gWørà!jq¾dkR„á‚­7Dëâc…$Ô.%?[æÇ—ÉŠ9Ş&
 <=xu–qêË8ëå	~ì¹€µGöQÿ"G}Ê	›Ğq|ÏN.¿•r÷˜KæJ¶ó$A¹‚éõ§ïÑãôZŸÊ=|IøÕò7¿:ş¦Œ/¯2>º”8 ˜CüâÏeo¡\ªk©T;æ§‹ì!9^¤Å‹ÒâÁ[@g@·Cw‚²„bå%–2ÆRŞHñö¿•ø+ó/Ù[;ø:ìôvÚc@UEÔ;ˆ:b±_ÏÎ²dä÷ ÔĞHë"ö”G1É•|ïÁahg¬i¸şw'LŞƒbPM;'&—WÖÃ¡V¾‡“ï1¡.õ˜ä{¸ù3êPY¾Gï1§!õ˜ç{„ùKêSe¾Gœë×òºÚÉÂB"Y0ea-	Í]:Ù´¿›¼mİhG“@ç¾{X_¡{NÌ¨jš€Ğè#¶Ñ®µÛ£Šıàº=µ×ÓË)ë´UhQÛˆjõÁİÄÉ]cï¶oq9éèÃ³Fƒq3Ú§—~²ı{í„Íd­K"Xi}@}Ø1OfÛ ôO‚ô×êèd)tqúßØÁ“¸yÒ…[5H¬ÚD?J9VÚ”-8ÎY¶órÕbÊÚÖ!ÿÎeuÂÔe:c°ƒÙ!¯Á!¯¢Fğ0Z1ÿ Å‘RêÚr"ô‡ô´!´ÙÒi²T]rç˜é’Óˆ™.9£˜3Zæ3Šó-9£˜3Zæ2Šsİrç×‚¸Yc¢GÿU?úï¨tôËQı÷_ş;ú¿˜ÈØÏÀÂÈàÌ`Â Ê ÎÀÀ ¤½Ÿ•!‚ÁƒÁ‚AƒA,Â°¨-ÁÁ–A‡A
-ªˆ™!ƒ!¨Ñ€A¢hP§ öF×ÚL	—Ú  áÎ>Œendstreamendobj9 0 obj<</AIS false/BM/Normal/CA 1.0/OP true/OPM 1/SA true/SMask/None/Type/ExtGState/ca 1.0/op true>>endobj10 0 obj<</AIS false/BM/Normal/CA 1.0/OP false/OPM 1/SA true/SMask/None/Type/ExtGState/ca 1.0/op false>>endobj8 0 obj[/Separation/All/DeviceGray<</C0[1.0]/C1[0.0]/Domain[0 1]/FunctionType 2/N 1.0/Range[0.0 1.0]>>]endobj5 0 obj<</Filter/FlateDecode/Length 389757/N 4>>stream
+ªˆ™!ƒ!¨Ñ€A¢hP§ öF×ÚL	—Ú  áÎ>Œendstreamendobj9 0 obj<</AIS false/BM/Normal/CA 1.0/OP false/OPM 1/SA true/SMask/None/Type/ExtGState/ca 1.0/op false>>endobj10 0 obj<</AIS false/BM/Normal/CA 1.0/OP true/OPM 1/SA true/SMask/None/Type/ExtGState/ca 1.0/op true>>endobj8 0 obj[/Separation/All/DeviceGray<</C0[1.0]/C1[0.0]/Domain[0 1]/FunctionType 2/N 1.0/Range[0.0 1.0]>>]endobj5 0 obj<</Filter/FlateDecode/Length 389757/N 4>>stream
 H‰””uTÔKÇtKˆ”ˆKJI,‚t(İ‹»4ìKÇÒİ%Ò¹´H—4J#‚Ò’‚(H
 w¹÷şqÏyïyßó~Ï3çùÌ™gÎ<3óÌ „Y9El
  @¸ ]äÕ!OÔÌ-@ã À à\€ˆ¹¥+BVKKÀè:øOX×~òş¿ÿWCa®–iHKL €…À0qÍY¦–Ë	`ø5 àcü€Âæk–Ë
@@ -73098,19 +73096,19 @@ p`+gQ€£(^±£‚1£ö¦¤¡×±ÇûÙ>¡±—9¨½Ú–ãé¨¬ÿ¡*ó®^¾œxú§ø#qb ,Y2aHwcıVMëOüb’/f=-Ä
 °d	*¨°>7º8P°W% \ò² h¢`3‚^l:®9º3â Ğc<…ÍxWo67µü!ÌõúÊÊºî¡Ìó·[ñĞˆZÙÒI‘ü4Ÿz{z?cŸvTäg‹„‚C	|Ş®ø¸˜Xî.şqDh\â1ÓyâXÇ¶C>¨M|; …“egA¸ ¨ğ:Ü‚ 8XJæ[7XôIĞ|0|ÿ—ú›¤N‹7€¿ áõw[{çEkvËàŠcàJÈ¬ÅşìÈıi%J-öQ–#¿u¯İ|FBòËéÑµµ<~ĞÔ V©Tõw<kïFóK‚};£#9a¡X!ÁÁ¬Ğ­Ñ¨P5wÊ8G»¡Ä¥§ebåÿ5†@¡
 İ¡P†
 ê`(d¡B÷G $‹8½‰‡º¥¡&Ìú{j?›ŸS„®£Æpä´¥ÁñW5zŒáN®K6Å•V·áiù|QşAhüÁ4×İªª¬(——•Êd*®İi„³sZdD(k}P` ÍêëGg°¶å¢‚t†ƒ­5RLT¨cÀò+Ê»İ#€à! Ü1M‡ÍeÂ+ş”ÔÆ…©xoBjœ0¬Ç»Ó8‚âÆOøUİåN±ˆÊÖèğ´â˜¤ô"Å£÷æÓ>|“„ä_¥JvV’—{J,ÎÍ“É¯)›ál/`¯¤ûùR|Vx¯ğ¡®fmß„œ96 şpL1c½ĞÆ3Y0†Ïßœ,‡§/ÿ–™N‹ÎPà[@õ¶Q†t´+eK¢TÙeæ9Û-pó
-âÈ®|BpWãù©×$ˆ¨ï¿%IHşOŞ¿y­Óé:ß~0?_(g¦‰D¢ô,ñ™¢rE}K¾cĞ¨+)ÊJ_*=ˆÍI,€?!ñ4Ğl=Ã…—[ P½Õ®¿=¸Ä¼	[˜Í÷şö ©}gö˜…OZO$oê!xLõá=é¥5ØdbBCö)		ÉO¡Õ´¶>ñRÛIğrş\šš’r"#;¯@V©2[ƒÙk©ş«‚˜›cç›Ìlz½Œi5a#*¹Xİmş?”;¼6ñ2.Ş#œ:Ä‰Ö™Li­Ã’¿«ßÌğü_ 8L+endstreamendobj14 0 obj<</CreationDate(D:20130318165116-05'00')/Creator(Adobe InDesign CS6 \(Macintosh\))/GTS_PDFXConformance(PDF/X-3:2002)/GTS_PDFXVersion(PDF/X-3:2002)/ModDate(D:20130318165117-05'00')/Producer(Adobe PDF Library 10.0.1)/Title(WirelessNetworkNames_Cover.indd)/Trapped/False>>endobjxref0 150000000000 65535 f
+âÈ®|BpWãù©×$ˆ¨ï¿%IHşOŞ¿y­Óé:ß~0?_(g¦‰D¢ô,ñ™¢rE}K¾cĞ¨+)ÊJ_*=ˆÍI,€?!ñ4Ğl=Ã…—[ P½Õ®¿=¸Ä¼	[˜Í÷şö ©}gö˜…OZO$oê!xLõá=é¥5ØdbBCö)		ÉO¡Õ´¶>ñRÛIğrş\šš’r"#;¯@V©2[ƒÙk©ş«‚˜›cç›Ìlz½Œi5a#*¹Xİmş?”;¼6ñ2.Ş#œ:Ä‰Ö™Li­Ã’¿«ßÌğü_ 8L+endstreamendobj14 0 obj<</CreationDate(D:20130319161239-05'00')/Creator(Adobe InDesign CS6 \(Macintosh\))/GTS_PDFXConformance(PDF/X-3:2002)/GTS_PDFXVersion(PDF/X-3:2002)/ModDate(D:20130319161240-05'00')/Producer(Adobe PDF Library 10.0.1)/Title(WirelessNetworkNames_Cover.indd)/Trapped/False>>endobjxref0 150000000000 65535 f
 0000000016 00000 n
 0000000294 00000 n
 0000004058 00000 n
 0000000000 00000 f
-0001826902 00000 n
+0001826877 00000 n
 0000004109 00000 n
 0000004406 00000 n
-0001826790 00000 n
-0001826567 00000 n
-0001826677 00000 n
-0001765093 00000 n
-0001766151 00000 n
-0001766412 00000 n
-0002216734 00000 n
-trailer<</Size 15/Root 1 0 R/Info 14 0 R/ID[<214E50F28B164A42829BF89A720431B4><190DAD2580DB4AAD90058F28AC4DB23C>]>>startxref2217020%%EOF
+0001826765 00000 n
+0001826542 00000 n
+0001826654 00000 n
+0001765068 00000 n
+0001766126 00000 n
+0001766387 00000 n
+0002216709 00000 n
+trailer<</Size 15/Root 1 0 R/Info 14 0 R/ID[<60E270914E584BB5AE3C4E4B838E75AA><07B35CE291E74F7D94A7F704FC07B5DA>]>>startxref2216995%%EOF
