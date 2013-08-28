@@ -43,17 +43,17 @@ http://en.wikipedia.org/wiki/WarXing and http://en.wikipedia.org/wiki/Wardriving
 
 '''
 
-import subprocess				# for running Mac call to scan for networks
-import re						# for matching IP addresses in longer string
+import subprocess			# for running Mac call to scan for networks
+import re							# for matching IP addresses in longer string
 import serial					# for talking to the Arduino (GPS)
 import shlex					# for splitting text at spaces
 import time						# get current date/time!
 
-location = "LincolnAndOmaha_viaI80"	# location (for filename
-delimiter = ','					# what format to save the file (default is CSV)
-spaceBetweenReadings = True		# separate readings with a space in text file?
-getGPS = False					# connect to GPS Arduino shield
-gpsConnected = False			# did we successfully connect to a GPS device?
+location = "TrainFromHobokenToGlenRidge"			# location (for filename
+delimiter = ','													# what format to save the file (default is CSV)
+spaceBetweenReadings = True							# separate readings with a space in text file?
+getGPS = False													# connect to GPS Arduino shield
+gpsConnected = False										# did we successfully connect to a GPS device?
 
 outputFilename = "OutputData/" + location + "Networks_" + time.strftime("%Y-%m-%d_%H-%M-%S_raw") + ".txt"
 

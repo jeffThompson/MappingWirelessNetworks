@@ -4,8 +4,8 @@
 # Simple first test to remove duplicate wireless network names; does
 # not take into account anything like geography or time.
 
-filename = "LincolnAndOmaha_viaI80Networks_2013-03-19_16-59-59_raw.txt"
-outputFile = "LincolnAndOmaha_viaI80Networks_noDuplicates.txt"
+filename = "TrainFromHobokenToGlenRidgeNetworks_2013-08-28_17-06-21_raw.txt"
+outputFile = "TrainFromHobokenToGlenRidgeNetworks_noDuplicates.txt"
 
 networkNames = []
 
